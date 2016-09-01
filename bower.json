@@ -1,0 +1,21 @@
+{
+  "name": "MKSpace-angular",
+  "homepage": "http://localhost:5000",
+  "authors": [
+    "Phoebe Maio"
+  ],
+  "description": "Social intranet for you to get to know colleagues/classmates better and the other way around",
+  "main": "app.js",
+  "keywords": [
+    "social",
+    "intranet"
+  ],
+  "license": "N/A",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

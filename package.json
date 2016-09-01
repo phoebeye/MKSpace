@@ -1,0 +1,23 @@
+{
+  "name": "mkspace-angular",
+  "version": "1.0.0",
+  "description": "Social intranet for you to get to know colleagues/classmates better and the other way around",
+  "main": "app.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoebeye/MKSpace.git"
+  },
+  "keywords": [
+    "social",
+    "intranet"
+  ],
+  "author": "Phoebe Maio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoebeye/MKSpace/issues"
+  },
+  "homepage": "https://github.com/phoebeye/MKSpace#readme"
+}
